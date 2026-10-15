@@ -1,0 +1,3 @@
+model,mape_pct,coverage_80_pct,test_months
+"ARIMA(0, 1, 1)",6.33,91.7,36
+Naive (last month),6.65,,36

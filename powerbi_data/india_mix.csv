@@ -1,0 +1,209 @@
+year,source,share_pct
+2000,Coal,68.295
+2001,Coal,69.663
+2002,Coal,69.992
+2003,Coal,69.182
+2004,Coal,66.303
+2005,Coal,67.916
+2006,Coal,67.899
+2007,Coal,66.972
+2008,Coal,69.183
+2009,Coal,69.553
+2010,Coal,68.665
+2011,Coal,67.93
+2012,Coal,72.319
+2013,Coal,74.303
+2014,Coal,75.47
+2015,Coal,76.803
+2016,Coal,76.964
+2017,Coal,76.261
+2018,Coal,76.28
+2019,Coal,74.877
+2020,Coal,73.158
+2021,Coal,74.793
+2022,Coal,74.499
+2023,Coal,75.352
+2024,Coal,74.534
+2025,Coal,70.818
+2000,Gas,9.794
+2001,Gas,9.543
+2002,Gas,10.314
+2003,Gas,11.408
+2004,Gas,10.966
+2005,Gas,10.712
+2006,Gas,10.035
+2007,Gas,11.309
+2008,Gas,10.367
+2009,Gas,11.879
+2010,Gas,12.605
+2011,Gas,11.388
+2012,Gas,8.843
+2013,Gas,5.81
+2014,Gas,5.085
+2015,Gas,4.942
+2016,Gas,5.206
+2017,Gas,5.128
+2018,Gas,4.534
+2019,Gas,4.494
+2020,Gas,4.784
+2021,Gas,3.598
+2022,Gas,2.558
+2023,Gas,2.648
+2024,Gas,2.771
+2025,Gas,2.332
+2000,Oil,5.103
+2001,Oil,4.571
+2002,Oil,4.581
+2003,Oil,4.872
+2004,Oil,4.048
+2005,Oil,3.601
+2006,Oil,2.563
+2007,Oil,1.678
+2008,Oil,1.843
+2009,Oil,1.489
+2010,Oil,1.151
+2011,Oil,0.906
+2012,Oil,0.925
+2013,Oil,0.933
+2014,Oil,0.918
+2015,Oil,0.707
+2016,Oil,0.675
+2017,Oil,0.601
+2018,Oil,0.407
+2019,Oil,0.192
+2020,Oil,0.198
+2021,Oil,0.202
+2022,Oil,0.193
+2023,Oil,0.201
+2024,Oil,0.201
+2025,Oil,0.197
+2000,Nuclear,2.76
+2001,Nuclear,3.223
+2002,Nuclear,3.174
+2003,Nuclear,2.843
+2004,Nuclear,3.044
+2005,Nuclear,2.517
+2006,Nuclear,2.368
+2007,Nuclear,2.239
+2008,Nuclear,1.838
+2009,Nuclear,1.914
+2010,Nuclear,2.465
+2011,Nuclear,3.121
+2012,Nuclear,3.045
+2013,Nuclear,2.919
+2014,Nuclear,2.756
+2015,Nuclear,2.923
+2016,Nuclear,2.717
+2017,Nuclear,2.558
+2018,Nuclear,2.485
+2019,Nuclear,2.821
+2020,Nuclear,2.853
+2021,Nuclear,2.616
+2022,Nuclear,2.56
+2023,Nuclear,2.513
+2024,Nuclear,2.686
+2025,Nuclear,2.586
+2000,Hydro,13.474
+2001,Hydro,12.288
+2002,Hydro,11.243
+2003,Hydro,10.86
+2004,Hydro,14.412
+2005,Hydro,13.828
+2006,Hydro,15.128
+2007,Hydro,15.398
+2008,Hydro,13.903
+2009,Hydro,12.103
+2010,Hydro,11.613
+2011,Hydro,12.758
+2012,Hydro,10.637
+2013,Hydro,11.565
+2014,Hydro,11.043
+2015,Hydro,10.185
+2016,Hydro,9.216
+2017,Hydro,9.298
+2018,Hydro,8.903
+2019,Hydro,10.137
+2020,Hydro,10.486
+2021,Hydro,9.565
+2022,Hydro,9.702
+2023,Hydro,7.79
+2024,Hydro,7.686
+2025,Hydro,8.55
+2000,Solar,0.002
+2001,Solar,0.002
+2002,Solar,0.002
+2003,Solar,0.003
+2004,Solar,0.003
+2005,Solar,0.003
+2006,Solar,0.001
+2007,Solar,0.008
+2008,Solar,0.007
+2009,Solar,0.009
+2010,Solar,0.012
+2011,Solar,0.08
+2012,Solar,0.193
+2013,Solar,0.301
+2014,Solar,0.39
+2015,Solar,0.541
+2016,Solar,0.875
+2017,Solar,1.529
+2018,Solar,2.383
+2019,Solar,2.339
+2020,Solar,3.384
+2021,Solar,3.907
+2022,Solar,5.315
+2023,Solar,6.017
+2024,Solar,7.025
+2025,Solar,9.415
+2000,Wind,0.277
+2001,Wind,0.357
+2002,Wind,0.343
+2003,Wind,0.407
+2004,Wind,0.749
+2005,Wind,0.85
+2006,Wind,1.255
+2007,Wind,1.467
+2008,Wind,1.736
+2009,Wind,1.852
+2010,Wind,2.078
+2011,Wind,2.32
+2012,Wind,2.52
+2013,Wind,2.63
+2014,Wind,2.658
+2015,Wind,2.498
+2016,Wind,3.115
+2017,Wind,3.599
+2018,Wind,3.837
+2019,Wind,3.954
+2020,Wind,3.865
+2021,Wind,4.056
+2022,Wind,3.882
+2023,Wind,4.28
+2024,Wind,4.004
+2025,Wind,4.995
+2000,Other renewables,0.296
+2001,Other renewables,0.353
+2002,Other renewables,0.351
+2003,Other renewables,0.425
+2004,Other renewables,0.474
+2005,Other renewables,0.573
+2006,Other renewables,0.751
+2007,Other renewables,0.929
+2008,Other renewables,1.123
+2009,Other renewables,1.202
+2010,Other renewables,1.412
+2011,Other renewables,1.498
+2012,Other renewables,1.518
+2013,Other renewables,1.54
+2014,Other renewables,1.68
+2015,Other renewables,1.401
+2016,Other renewables,1.233
+2017,Other renewables,1.025
+2018,Other renewables,1.171
+2019,Other renewables,1.186
+2020,Other renewables,1.272
+2021,Other renewables,1.263
+2022,Other renewables,1.291
+2023,Other renewables,1.2
+2024,Other renewables,1.093
+2025,Other renewables,1.107
